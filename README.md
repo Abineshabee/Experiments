@@ -6,7 +6,7 @@ This repository contains a collection of **machine learning projects and experim
 
 The goal of this repository is to explore different datasets and implement **classification and prediction models using Python and Jupyter Notebook**.
 
-Each project focuses on a **different real-world dataset** and demonstrates the workflow of:
+Each project focuses on a **different real-world dataset** and demonstrates the workflow of
 
 * Data loading
 * Data preprocessing
